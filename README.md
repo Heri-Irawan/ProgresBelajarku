@@ -11,4 +11,4 @@ belajar tentang git dan github
 --
  -mempelajari isttilah dari remote dan local reposity.
  - membuat file .md dan cara penulisannya
- 
+ - mengisi ujian git dan github
